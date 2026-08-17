@@ -28,7 +28,7 @@ Mở notebook `yolov11_traffic_sign_train.ipynb` trên Google Colab (cần GPU):
 
 ## Demo
 
-[Link video demo kết quả detect](https://drive.google.com/drive/folders/PASTE_LINK_HERE)
+[Video demo kết quả detect](https://drive.google.com/file/d/1Xkz8wqri_CpPOGARnq6c8fgVhRF26CmC/view?usp=drive_link)
 
 ## Thông tin nhóm
 
