@@ -28,7 +28,8 @@ Mở notebook `yolov11_traffic_sign_train.ipynb` trên Google Colab (cần GPU):
 
 ## Demo
 
-[Video demo kết quả detect](https://drive.google.com/file/d/1Xkz8wqri_CpPOGARnq6c8fgVhRF26CmC/view?usp=drive_link)
+- [Video demo kết quả detect (GitHub Release)](https://github.com/davu442005tq/Traffic-Sign-Recognition-YOLOv11/releases)
+- [Video demo kết quả detect (Google Drive)](https://drive.google.com/file/d/1Xkz8wqri_CpPOGARnq6c8fgVhRF26CmC/view?usp=drive_link)
 
 ## Thông tin nhóm
 
