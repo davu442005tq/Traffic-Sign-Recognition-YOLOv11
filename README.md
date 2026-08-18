@@ -21,10 +21,15 @@ Nhận dạng biển báo giao thông Việt Nam (17 lớp) bằng YOLOv11.
 
 Mở notebook `yolov11_traffic_sign_train.ipynb` trên Google Colab (cần GPU):
 
-1. Cài Ultralytics
-2. Giải nén dataset Roboflow vào `/content`
+1. Cài Ultralytics (cell đầu tiên)
+2. Dataset được tải tự động từ [GitHub Release](https://github.com/davu442005tq/Traffic-Sign-Recognition-YOLOv11/releases/download/v1.0.0/Team2_VN_traffic_sign_detect.v1i.yolov11.zip) và giải nén vào `/content` (nếu không tải được, hãy upload file zip theo cách thủ công)
 3. Chạy cell huấn luyện YOLOv11n (100 epochs, imgsz 640, batch 16, lr0 0.001, SGD)
 4. Đánh giá trên test set và dự đoán trên ảnh/video thực tế
+
+## Dataset
+
+- **Nguồn:** bộ dữ liệu biển báo giao thông Việt Nam, 17 lớp, 7.999 ảnh (train/val/test = 70/20/10)
+- **Tải về:** [Team2_VN_traffic_sign_detect.v1i.yolov11.zip](https://github.com/davu442005tq/Traffic-Sign-Recognition-YOLOv11/releases/download/v1.0.0/Team2_VN_traffic_sign_detect.v1i.yolov11.zip) (~651MB) trên GitHub Release
 
 ## Demo
 
