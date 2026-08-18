@@ -17,6 +17,16 @@ Nhận dạng biển báo giao thông Việt Nam (17 lớp) bằng YOLOv11.
 | mAP@0.5 | 0.990 | **0.992** |
 | mAP@0.5:0.95 | 0.883 | **0.890** |
 
+### Biểu đồ huấn luyện (100 epochs)
+
+| Training loss | Validation loss | mAP |
+|---|---|---|
+| ![training_loss](results/training_loss.png) | ![validation_loss](results/validation_loss.png) | ![map_curves](results/map_curves.png) |
+
+### Kết quả detect mẫu
+
+![detection_example](results/detection_example.png)
+
 ## Cách chạy
 
 Mở notebook `yolov11_traffic_sign_train.ipynb` trên Google Colab (cần GPU):
