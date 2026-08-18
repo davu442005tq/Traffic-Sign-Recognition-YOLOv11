@@ -31,6 +31,10 @@ Mở notebook `yolov11_traffic_sign_train.ipynb` trên Google Colab (cần GPU):
 - **Nguồn:** bộ dữ liệu biển báo giao thông Việt Nam, 17 lớp, 7.999 ảnh (train/val/test = 70/20/10)
 - **Tải về:** [Team2_VN_traffic_sign_detect.v1i.yolov11.zip](https://github.com/davu442005tq/Traffic-Sign-Recognition-YOLOv11/releases/download/v1.0.0/Team2_VN_traffic_sign_detect.v1i.yolov11.zip) (~651MB) trên GitHub Release
 
+## Weights mô hình
+
+- **Tải về:** [best.pt](https://github.com/davu442005tq/Traffic-Sign-Recognition-YOLOv11/releases/download/v1.0.0/best.pt) (5.5MB) – weights YOLOv11n sau huấn luyện, được tải tự động bởi notebook
+
 ## Demo
 
 - [Video demo kết quả detect (GitHub Release)](https://github.com/davu442005tq/Traffic-Sign-Recognition-YOLOv11/releases)
