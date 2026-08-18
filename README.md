@@ -27,6 +27,15 @@ Nhận dạng biển báo giao thông Việt Nam (17 lớp) bằng YOLOv11.
 
 ![detection_example](results/detection_example.png)
 
+### Kết quả detect trên ảnh test (chạy bằng best.pt)
+
+![demo 1](results/detect_demo/demo_detect_01.jpg)
+![demo 2](results/detect_demo/demo_detect_02.jpg)
+![demo 3](results/detect_demo/demo_detect_03.jpg)
+![demo 4](results/detect_demo/demo_detect_04.jpg)
+![demo 5](results/detect_demo/demo_detect_05.jpg)
+![demo 6](results/detect_demo/demo_detect_06.jpg)
+
 ## Cách chạy
 
 Mở notebook `yolov11_traffic_sign_train.ipynb` trên Google Colab (cần GPU):
